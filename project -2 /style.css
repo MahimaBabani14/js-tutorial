@@ -1,0 +1,52 @@
+html{
+    margin: 0;
+}
+
+.nav-bar a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid grey;
+    padding-right: 30px;
+    padding-bottom: 4px;
+    padding-left: 30px;
+    padding-top: 4px;
+    background-color: lightgrey;
+    margin-left: 40%;
+    
+    
+}
+
+.nav-bar a:hover{
+    background-color: whitesmoke;
+}
+
+h2{
+    margin-top: 6%;
+    margin-left: 10%;
+}
+
+.container{
+    margin-left: 10%;
+}
+
+.weight-guide{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+button{
+    margin-left: 12%;
+    margin-top: 3%;
+    width: 10%;
+    height: 30px;
+    border: 0px solid black;
+    border-radius: 10%;
+    
+}
+
+#results{
+    margin-top: 2%;
+    margin-left:5%;
+    font-size: 2rem;
+    color: bisque;
+}
